@@ -3,7 +3,6 @@ package com.kivi.util;
 import com.kivi.model.Filter;
 
 import java.lang.reflect.Array;
-import java.util.List;
 
 public class Methods {
     /**
